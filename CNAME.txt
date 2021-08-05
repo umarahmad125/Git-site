@@ -1,2 +1,4 @@
-incapsula-passport.peoplecert.org
+admin.withbuddies.com
+CNAME: admin.withbuddies.com.s3-website-us-east-1.amazonaws.com
+BUCKET NAME: admin.withbuddies.com
 CNAME: 3o4nx3t.x.incapdns.net.
